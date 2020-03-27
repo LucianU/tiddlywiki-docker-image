@@ -3,8 +3,8 @@
 if [ -z "$1" ]
 then
   echo "Usage:"
-  echo "  ./run.sh [tag]"
-  echo "  Example: ./run.sh 0.1"
+  echo "  ./build.sh [tag]"
+  echo "  Example: ./build.sh 0.1"
   exit 1
 fi
 
